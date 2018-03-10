@@ -5,4 +5,4 @@ Smalltalk code go generate [responsive](https://en.wikipedia.org/wiki/Responsive
 (not yet) https://hhzl.github.io/generate-purecss-sidemenu-site/
 
 # Note
-An approach using a Makefile http://cdaniels.net/2017-11-22_make-static-site.html
+An approach using a Makefile http://cdaniels.net/2017-11-22_make-static-site.html. It makes use of [pandoc](http://pandoc.org/index.html).
