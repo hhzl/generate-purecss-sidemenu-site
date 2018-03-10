@@ -3,3 +3,6 @@ Smalltalk code go generate [responsive](https://en.wikipedia.org/wiki/Responsive
 
 # Demo
 (not yet) https://hhzl.github.io/generate-purecss-sidemenu-site/
+
+# Note
+An approach using a Makefile http://cdaniels.net/2017-11-22_make-static-site.html
