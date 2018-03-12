@@ -14,11 +14,11 @@ The code is specific to the particular layout taken from https://purecss.io/layo
 
 The class
 
-   StaticSiteGenerator3 example
+      StaticSiteGenerator3 example
    
 implements the code which generates the result.
    
-The classes ``StaticSiteGenerator0``, ``StaticSiteGenerator1`` and `StaticSiteGenerator2`` show earlier stages of the development.     
+The classes ``StaticSiteGenerator0``, ``StaticSiteGenerator1`` and ``StaticSiteGenerator2`` show earlier stages of the development.     
 
 # Demo
 (not yet) https://hhzl.github.io/generate-purecss-sidemenu-site/
