@@ -23,7 +23,10 @@ The classes ``StaticSiteGenerator0``, ``StaticSiteGenerator1`` and ``StaticSiteG
 # Demo
 (not yet) https://hhzl.github.io/generate-purecss-sidemenu-site/
 
-# Note
+# Notes
+
 An approach using a Makefile http://cdaniels.net/2017-11-22_make-static-site.html. It makes use of [pandoc](http://pandoc.org/index.html).
 
 A similar article but applying a Makefile to JavaScript: *http://www.olioapps.com/blog/the-lost-art-of-the-makefile/*
+
+An approach to do a "light static site generator" using ``node`` and ``npm``: *https://github.com/BrandonRomano/static-lite*
