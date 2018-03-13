@@ -21,7 +21,7 @@ implements the code which generates the result.
 The classes ``StaticSiteGenerator0``, ``StaticSiteGenerator1`` and ``StaticSiteGenerator2`` show earlier stages of the development.     
 
 # Demo
-(not yet) https://hhzl.github.io/generate-purecss-sidemenu-site/
+https://hhzl.github.io/generate-purecss-sidemenu-site/
 
 # Notes
 
